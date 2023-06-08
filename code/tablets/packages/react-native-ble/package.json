@@ -1,0 +1,16 @@
+{
+  "name": "react-native-ble",
+  "version": "1.0.0",
+  "description": "A package to add BLE peripheral functionality to android react native apps.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilSawantUSA/Scouterdeck.git"
+  },
+  "author": "SahilSawantUSA",
+  "license": "MIT"
+}
