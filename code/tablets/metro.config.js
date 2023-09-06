@@ -5,7 +5,7 @@
  * @format
  */
 
-const packagePath = '/Users/sahil/Repos/Projects/Scouterdeck/code/tablets/packages/react-native-ble';
+const packagePath = '/Users/Driver Station/Documents/GitHub/Scouting-2023/code/tablets/packages/react-native-ble';
 
 module.exports = {
   resolver: {
